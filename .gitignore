@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# raw_csv
+/raw_csv/
+
+# DS store
+.DS_Store
+
+# rsconnect
+/rsconnect/
