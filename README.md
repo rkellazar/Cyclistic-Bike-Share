@@ -1,5 +1,7 @@
 # Cyclistic-Bike-2019
 
+![cyclistic bike-share](images/cyclistic-bike.jpeg)
+
 Source of the Dataset: <https://divvy-tripdata.s3.amazonaws.com/index.html>
 
 Read the Article: https://rpubs.com/rkellazar/cyclistic-bike-share-2019
